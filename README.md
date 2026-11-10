@@ -1,6 +1,6 @@
 # POSIX-like Shell in Go
 
-A lightweight command-line shell implementation written in Go.
+A lightweight command-line shell implementation written in Go. Part of the [Codecrafters Build your own Shell challenge](https://app.codecrafters.io/courses/shell/overview), the main initial stage. After this you have a bare basic shell you can run. For example `git push` or `clone` now is part of your shell or run external commands including your own custom ones. Pretty cool to see that happening.
 
 ## Features
 
